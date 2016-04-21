@@ -1,6 +1,8 @@
 [package]
 name = "rot13"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Alex Hill <alexander.d.hill.89@gmail.com>"]
 
 [dependencies]
+clap = "2.3.0"
+clipboard = "0.1.1"
